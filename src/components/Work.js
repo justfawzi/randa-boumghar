@@ -2,10 +2,10 @@ import React from 'react'
 
 export default function Work() {
     return (
-        <div className='work pt-5'>
+        <div id='creations' className='work pt-5 pb-5'>
             <div className='container'>
                 <h1>Creations</h1>
-                <div className='row mt-5'>
+                <div className='row mt-5 mb-5'>
                     <div className='col mb-5'>
                         <div className='box brodery'>
                             <div className='overlay'></div>

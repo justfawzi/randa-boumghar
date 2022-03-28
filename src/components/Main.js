@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Main() {
   return (
-    <div className="main">
+    <div className="main" id='home'>
       <div className='row'>
         <div className='col'>
           <h1>Randa Boumghar</h1>
