@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.673fd47d.css",
+    "main.js": "/static/js/main.1f17c7bb.js",
+    "static/media/bg.jpg": "/static/media/bg.7e2419438dd69d3f9af1.jpg",
+    "static/media/brodery.jpg": "/static/media/brodery.7782321de0c05781cd0c.jpg",
+    "static/media/music.jpg": "/static/media/music.382ca369256079f55da4.jpg",
+    "index.html": "/index.html",
+    "main.673fd47d.css.map": "/static/css/main.673fd47d.css.map",
+    "main.1f17c7bb.js.map": "/static/js/main.1f17c7bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.673fd47d.css",
+    "static/js/main.1f17c7bb.js"
+  ]
+}
